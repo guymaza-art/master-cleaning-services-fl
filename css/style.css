@@ -1,10 +1,11 @@
 /* ===== RESET & BASE ===== */
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
-html { scroll-behavior: smooth; }
-body { font-family: 'Inter', 'Segoe UI', sans-serif; color: #222; line-height: 1.6; }
+html { scroll-behavior: smooth; overflow-x: hidden; }
+body { font-family: 'Inter', 'Segoe UI', sans-serif; color: #222; line-height: 1.6; overflow-x: hidden; -webkit-text-size-adjust: 100%; }
 a { text-decoration: none; color: inherit; }
 ul { list-style: none; }
 img { max-width: 100%; display: block; }
+button, a { -webkit-tap-highlight-color: transparent; touch-action: manipulation; }
 
 /* Fixed header anchor offset */
 section { scroll-margin-top: 96px; }
@@ -82,7 +83,7 @@ nav a:hover { color: var(--teal); }
   min-height: 100vh;
   background:
     linear-gradient(135deg, rgba(0,0,0,0.68) 0%, rgba(0,0,0,0.4) 100%),
-    url('https://static.wixstatic.com/media/d457fd_20060ba85345416e92197b51c868e81d~mv2.jpg') center/cover no-repeat;
+    url('https://images.pexels.com/photos/1396122/pexels-photo-1396122.jpeg?auto=compress&cs=tinysrgb&w=1600') center/cover no-repeat;
   display: flex;
   align-items: center;
   padding: 130px 80px 80px;
@@ -549,7 +550,7 @@ section { padding: 80px 40px; }
 .contact-info {
   flex: 0 0 38%;
   background: linear-gradient(rgba(0,0,0,0.72), rgba(0,0,0,0.72)),
-    url('https://static.wixstatic.com/media/d457fd_7732db9c08184284a328d03f89aae867f000.jpg') center/cover no-repeat;
+    url('https://images.pexels.com/photos/3785935/pexels-photo-3785935.jpeg?auto=compress&cs=tinysrgb&w=1200') center/cover no-repeat;
   color: white;
   padding: 64px 50px;
   display: flex;
@@ -1098,4 +1099,35 @@ body.menu-open .hamburger span:nth-child(3) { transform: translateY(-7.5px) rota
   /* Stats: 2x2 nicer */
   .stat strong { font-size: 24px; }
   .stat span { font-size: 11px; }
+
+  /* Contact inner: remove fixed min-height on mobile */
+  .contact-inner { min-height: auto; flex-direction: column; }
+
+  /* Touch targets: at least 44px tall */
+  .btn-teal, .btn-outline, .header-phone, nav a { min-height: 44px; display: inline-flex; align-items: center; justify-content: center; }
+
+  /* Promo cards: 1 column, full width */
+  .promo-card-body { padding: 16px 14px; }
+  .price { font-size: 32px; }
+
+  /* BA grid: 1 col */
+  .ba-grid { gap: 14px; }
+  .ba-item img { height: 220px; }
+
+  /* Gallery: 2 columns on most phones */
+  .gallery-grid { grid-template-columns: repeat(2, 1fr); gap: 10px; }
+
+  /* Stats bar: 2x2 */
+  .stats-inner { grid-template-columns: repeat(2, 1fr); }
+
+  /* FAQ item padding tighter */
+  .faq-item summary { padding: 14px 16px; font-size: 14px; }
+  .faq-item p { padding: 12px 16px 16px; font-size: 14px; }
+
+  /* Revitalize content padding */
+  .revitalize-content { padding: 32px 20px; }
+
+  /* Section titles */
+  h1 { font-size: clamp(24px, 7vw, 36px) !important; }
+  h2 { font-size: clamp(20px, 5.5vw, 28px) !important; }
 }
