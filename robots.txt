@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://masterductcleaningtampa.com/sitemap.xml
+Sitemap: https://mastercleaningservicesfl.com/sitemap.xml
