@@ -83,7 +83,7 @@ nav a:hover { color: var(--teal); }
   min-height: 100vh;
   background:
     linear-gradient(135deg, rgba(0,0,0,0.68) 0%, rgba(0,0,0,0.4) 100%),
-    url('https://images.pexels.com/photos/1396122/pexels-photo-1396122.jpeg?auto=compress&cs=tinysrgb&w=1600') center/cover no-repeat;
+    url('https://static.wixstatic.com/media/d457fd_20060ba85345416e92197b51c868e81d~mv2.jpg') center/cover no-repeat;
   display: flex;
   align-items: center;
   padding: 130px 80px 80px;
