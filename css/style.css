@@ -549,8 +549,7 @@ section { padding: 80px 40px; }
 
 .contact-info {
   flex: 0 0 38%;
-  background: linear-gradient(rgba(0,0,0,0.72), rgba(0,0,0,0.72)),
-    url('https://images.pexels.com/photos/3785935/pexels-photo-3785935.jpeg?auto=compress&cs=tinysrgb&w=1200') center/cover no-repeat;
+  background: linear-gradient(160deg, #1a3a3a 0%, #0d2626 100%);
   color: white;
   padding: 64px 50px;
   display: flex;
