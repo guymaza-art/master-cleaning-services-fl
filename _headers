@@ -1,0 +1,5 @@
+https://*.pages.dev/*
+  X-Robots-Tag: noindex, nofollow
+
+https://mastercleaningservicesfl.com/*
+  X-Robots-Tag: index, follow
