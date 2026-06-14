@@ -1,17 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://mastercleaningservicesfl.com/</loc><changefreq>weekly</changefreq><priority>1.0</priority><lastmod>2026-05-07</lastmod></url>
-  <url><loc>https://mastercleaningservicesfl.com/air-duct-cleaning/</loc><changefreq>monthly</changefreq><priority>0.9</priority><lastmod>2026-05-07</lastmod></url>
-  <url><loc>https://mastercleaningservicesfl.com/ac-cleaning/</loc><changefreq>monthly</changefreq><priority>0.9</priority><lastmod>2026-05-07</lastmod></url>
-  <url><loc>https://mastercleaningservicesfl.com/dryer-vent-cleaning/</loc><changefreq>monthly</changefreq><priority>0.9</priority><lastmod>2026-05-07</lastmod></url>
-  <url><loc>https://mastercleaningservicesfl.com/chimney-cleaning/</loc><changefreq>monthly</changefreq><priority>0.9</priority><lastmod>2026-05-07</lastmod></url>
-  <url><loc>https://mastercleaningservicesfl.com/service-areas/</loc><changefreq>monthly</changefreq><priority>0.8</priority><lastmod>2026-05-07</lastmod></url>
-  <url><loc>https://mastercleaningservicesfl.com/service-areas/tampa/</loc><changefreq>monthly</changefreq><priority>0.8</priority><lastmod>2026-05-07</lastmod></url>
-  <url><loc>https://mastercleaningservicesfl.com/service-areas/st-petersburg/</loc><changefreq>monthly</changefreq><priority>0.8</priority><lastmod>2026-05-07</lastmod></url>
-  <url><loc>https://mastercleaningservicesfl.com/service-areas/clearwater/</loc><changefreq>monthly</changefreq><priority>0.8</priority><lastmod>2026-05-07</lastmod></url>
-  <url><loc>https://mastercleaningservicesfl.com/service-areas/brandon/</loc><changefreq>monthly</changefreq><priority>0.8</priority><lastmod>2026-05-07</lastmod></url>
-  <url><loc>https://mastercleaningservicesfl.com/service-areas/riverview/</loc><changefreq>monthly</changefreq><priority>0.8</priority><lastmod>2026-05-07</lastmod></url>
-  <url><loc>https://mastercleaningservicesfl.com/service-areas/wesley-chapel/</loc><changefreq>monthly</changefreq><priority>0.8</priority><lastmod>2026-05-07</lastmod></url>
-  <url><loc>https://mastercleaningservicesfl.com/contact/</loc><changefreq>yearly</changefreq><priority>0.7</priority><lastmod>2026-05-07</lastmod></url>
-  <url><loc>https://mastercleaningservicesfl.com/blog/</loc><changefreq>weekly</changefreq><priority>0.7</priority><lastmod>2026-05-07</lastmod></url>
+  <!-- Homepage -->
+  <url><loc>https://mastercleaningservicesfl.com/</loc><changefreq>weekly</changefreq><priority>1.0</priority><lastmod>2026-06-14</lastmod></url>
+
+  <!-- Service pages -->
+  <url><loc>https://mastercleaningservicesfl.com/air-duct-cleaning/</loc><changefreq>monthly</changefreq><priority>0.9</priority><lastmod>2026-06-14</lastmod></url>
+  <url><loc>https://mastercleaningservicesfl.com/ac-cleaning/</loc><changefreq>monthly</changefreq><priority>0.9</priority><lastmod>2026-06-14</lastmod></url>
+  <url><loc>https://mastercleaningservicesfl.com/dryer-vent-cleaning/</loc><changefreq>monthly</changefreq><priority>0.9</priority><lastmod>2026-06-14</lastmod></url>
+  <url><loc>https://mastercleaningservicesfl.com/chimney-cleaning/</loc><changefreq>monthly</changefreq><priority>0.9</priority><lastmod>2026-06-14</lastmod></url>
+
+  <!-- Contact -->
+  <url><loc>https://mastercleaningservicesfl.com/contact/</loc><changefreq>yearly</changefreq><priority>0.7</priority><lastmod>2026-06-14</lastmod></url>
+
+  <!-- Service areas index -->
+  <url><loc>https://mastercleaningservicesfl.com/service-areas/</loc><changefreq>monthly</changefreq><priority>0.8</priority><lastmod>2026-06-14</lastmod></url>
+
+  <!-- Original 6 service area cities -->
+  <url><loc>https://mastercleaningservicesfl.com/service-areas/tampa/</loc><changefreq>monthly</changefreq><priority>0.8</priority><lastmod>2026-06-14</lastmod></url>
+  <url><loc>https://mastercleaningservicesfl.com/service-areas/st-petersburg/</loc><changefreq>monthly</changefreq><priority>0.8</priority><lastmod>2026-06-14</lastmod></url>
+  <url><loc>https://mastercleaningservicesfl.com/service-areas/clearwater/</loc><changefreq>monthly</changefreq><priority>0.8</priority><lastmod>2026-06-14</lastmod></url>
+  <url><loc>https://mastercleaningservicesfl.com/service-areas/brandon/</loc><changefreq>monthly</changefreq><priority>0.8</priority><lastmod>2026-06-14</lastmod></url>
+  <url><loc>https://mastercleaningservicesfl.com/service-areas/riverview/</loc><changefreq>monthly</changefreq><priority>0.8</priority><lastmod>2026-06-14</lastmod></url>
+  <url><loc>https://mastercleaningservicesfl.com/service-areas/wesley-chapel/</loc><changefreq>monthly</changefreq><priority>0.8</priority><lastmod>2026-06-14</lastmod></url>
+
+  <!-- 19 new neighborhood/city pages -->
+  <url><loc>https://mastercleaningservicesfl.com/service-areas/hyde-park/</loc><changefreq>monthly</changefreq><priority>0.8</priority><lastmod>2026-06-14</lastmod></url>
+  <url><loc>https://mastercleaningservicesfl.com/service-areas/south-tampa/</loc><changefreq>monthly</changefreq><priority>0.8</priority><lastmod>2026-06-14</lastmod></url>
+  <url><loc>https://mastercleaningservicesfl.com/service-areas/davis-islands/</loc><changefreq>monthly</changefreq><priority>0.8</priority><lastmod>2026-06-14</lastmod></url>
+  <url><loc>https://mastercleaningservicesfl.com/service-areas/westshore/</loc><changefreq>monthly</changefreq><priority>0.8</priority><lastmod>2026-06-14</lastmod></url>
+  <url><loc>https://mastercleaningservicesfl.com/service-areas/channelside/</loc><changefreq>monthly</changefreq><priority>0.8</priority><lastmod>2026-06-14</lastmod></url>
+  <url><loc>https://mastercleaningservicesfl.com/service-areas/ybor-city/</loc><changefreq>monthly</changefreq><priority>0.8</priority><lastmod>2026-06-14</lastmod></url>
+  <url><loc>https://mastercleaningservicesfl.com/service-areas/seminole-heights/</loc><changefreq>monthly</changefreq><priority>0.8</priority><lastmod>2026-06-14</lastmod></url>
+  <url><loc>https://mastercleaningservicesfl.com/service-areas/new-tampa/</loc><changefreq>monthly</changefreq><priority>0.8</priority><lastmod>2026-06-14</lastmod></url>
+  <url><loc>https://mastercleaningservicesfl.com/service-areas/carrollwood/</loc><changefreq>monthly</changefreq><priority>0.8</priority><lastmod>2026-06-14</lastmod></url>
+  <url><loc>https://mastercleaningservicesfl.com/service-areas/westchase/</loc><changefreq>monthly</changefreq><priority>0.8</priority><lastmod>2026-06-14</lastmod></url>
+  <url><loc>https://mastercleaningservicesfl.com/service-areas/pinellas-park/</loc><changefreq>monthly</changefreq><priority>0.8</priority><lastmod>2026-06-14</lastmod></url>
+  <url><loc>https://mastercleaningservicesfl.com/service-areas/seminole/</loc><changefreq>monthly</changefreq><priority>0.8</priority><lastmod>2026-06-14</lastmod></url>
+  <url><loc>https://mastercleaningservicesfl.com/service-areas/town-n-country/</loc><changefreq>monthly</changefreq><priority>0.8</priority><lastmod>2026-06-14</lastmod></url>
+  <url><loc>https://mastercleaningservicesfl.com/service-areas/odessa/</loc><changefreq>monthly</changefreq><priority>0.8</priority><lastmod>2026-06-14</lastmod></url>
+  <url><loc>https://mastercleaningservicesfl.com/service-areas/ruskin/</loc><changefreq>monthly</changefreq><priority>0.8</priority><lastmod>2026-06-14</lastmod></url>
+  <url><loc>https://mastercleaningservicesfl.com/service-areas/tarpon-springs/</loc><changefreq>monthly</changefreq><priority>0.8</priority><lastmod>2026-06-14</lastmod></url>
+  <url><loc>https://mastercleaningservicesfl.com/service-areas/lakeland/</loc><changefreq>monthly</changefreq><priority>0.8</priority><lastmod>2026-06-14</lastmod></url>
+  <url><loc>https://mastercleaningservicesfl.com/service-areas/sarasota/</loc><changefreq>monthly</changefreq><priority>0.8</priority><lastmod>2026-06-14</lastmod></url>
+  <url><loc>https://mastercleaningservicesfl.com/service-areas/bradenton/</loc><changefreq>monthly</changefreq><priority>0.8</priority><lastmod>2026-06-14</lastmod></url>
+
+  <!-- Blog index -->
+  <url><loc>https://mastercleaningservicesfl.com/blog/</loc><changefreq>weekly</changefreq><priority>0.7</priority><lastmod>2026-06-14</lastmod></url>
+
+  <!-- Original 6 blog posts -->
+  <url><loc>https://mastercleaningservicesfl.com/blog/why-tampa-ac-smells-musty/</loc><changefreq>yearly</changefreq><priority>0.6</priority><lastmod>2026-06-14</lastmod></url>
+  <url><loc>https://mastercleaningservicesfl.com/blog/how-often-clean-air-ducts-tampa/</loc><changefreq>yearly</changefreq><priority>0.6</priority><lastmod>2026-06-14</lastmod></url>
+  <url><loc>https://mastercleaningservicesfl.com/blog/florida-pollen-hvac/</loc><changefreq>yearly</changefreq><priority>0.6</priority><lastmod>2026-06-14</lastmod></url>
+  <url><loc>https://mastercleaningservicesfl.com/blog/dryer-vent-fire-risk-florida/</loc><changefreq>yearly</changefreq><priority>0.6</priority><lastmod>2026-06-14</lastmod></url>
+  <url><loc>https://mastercleaningservicesfl.com/blog/air-duct-cleaning-cost-tampa/</loc><changefreq>yearly</changefreq><priority>0.6</priority><lastmod>2026-06-14</lastmod></url>
+  <url><loc>https://mastercleaningservicesfl.com/blog/mold-in-air-ducts-tampa/</loc><changefreq>yearly</changefreq><priority>0.6</priority><lastmod>2026-06-14</lastmod></url>
+
+  <!-- 8 new blog posts -->
+  <url><loc>https://mastercleaningservicesfl.com/blog/$99-air-duct-cleaning-scam/</loc><changefreq>yearly</changefreq><priority>0.6</priority><lastmod>2026-06-14</lastmod></url>
+  <url><loc>https://mastercleaningservicesfl.com/blog/ac-coil-cleaning-cost-tampa/</loc><changefreq>yearly</changefreq><priority>0.6</priority><lastmod>2026-06-14</lastmod></url>
+  <url><loc>https://mastercleaningservicesfl.com/blog/is-ac-coil-cleaning-worth-it/</loc><changefreq>yearly</changefreq><priority>0.6</priority><lastmod>2026-06-14</lastmod></url>
+  <url><loc>https://mastercleaningservicesfl.com/blog/signs-you-need-duct-cleaning/</loc><changefreq>yearly</changefreq><priority>0.6</priority><lastmod>2026-06-14</lastmod></url>
+  <url><loc>https://mastercleaningservicesfl.com/blog/dryer-taking-too-long-florida/</loc><changefreq>yearly</changefreq><priority>0.6</priority><lastmod>2026-06-14</lastmod></url>
+  <url><loc>https://mastercleaningservicesfl.com/blog/florida-ac-mold-summer/</loc><changefreq>yearly</changefreq><priority>0.6</priority><lastmod>2026-06-14</lastmod></url>
+  <url><loc>https://mastercleaningservicesfl.com/blog/ac-drain-line-cleaning-florida/</loc><changefreq>yearly</changefreq><priority>0.6</priority><lastmod>2026-06-14</lastmod></url>
+  <url><loc>https://mastercleaningservicesfl.com/blog/air-duct-cleaning-allergies-asthma/</loc><changefreq>yearly</changefreq><priority>0.6</priority><lastmod>2026-06-14</lastmod></url>
 </urlset>
