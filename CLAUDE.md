@@ -29,9 +29,9 @@ tampa-site/
 ## Business facts (memorize before any user-facing copy)
 
 - **Business name:** Master Cleaning Services (Tampa)
-- **Phone:** (617) 934-8512 · WhatsApp: https://wa.me/16179348512
+- **Phone:** (813) 285-7449
 - **Email:** Masterinductcleaning@gmail.com
-- **Domain (placeholder):** https://mastercleaningservicesfl.com — replace with the real Tampa domain when launched
+- **Domain:** https://mastercleaningservicesfl.com
 - **GA4 ID:** G-G06E8B465L (currently shared with Boston site — replace if separating analytics)
 - **Core services:**
   - Air duct cleaning (negative-pressure extraction with rotary brush agitation)
@@ -79,9 +79,7 @@ See `seo` and `aeo-boston` skills (the AEO playbook applies — just swap Boston
 
 ## Open items / TODO
 
-- Replace placeholder domain `mastercleaningservicesfl.com` with real Tampa domain when registered
-- Decide on Tampa-area phone number — current site uses Boston (617) 934-8512 per user request, but a local 813/727/941 number would help local SEO trust signals
 - Set up Google Business Profile for Tampa as a service-area business (not storefront)
-- Submit `sitemap.xml` to Google Search Console once domain is live
+- Submit `sitemap.xml` to Google Search Console
 - Build out blog posts (see `blog/index.html` for planned topics)
 - Consider adding a dedicated `mold-removal/` service page given how prominent the Florida humidity angle is

@@ -1,0 +1,3 @@
+[build]
+  publish = "dist"
+  command = "mkdir -p dist && cp -r $(ls | grep -v dist) dist/ 2>/dev/null; true"
